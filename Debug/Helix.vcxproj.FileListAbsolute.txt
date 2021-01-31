@@ -1,0 +1,2 @@
+C:\dev\TypingGame\Debug\Helix.pdb
+C:\dev\Helix\Debug\Helix.pdb
